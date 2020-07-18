@@ -89,7 +89,7 @@ OS X 等系统上构建时，典型的步骤是这样的：
     cd nginx-1.0.10/
     ./configure --with-debug
     make
-    sudu make install
+    sudo make install
 
 如果你使用的是我维护的 L<ngx_openresty|http://openresty.org>
 软件包，则同样可以向
